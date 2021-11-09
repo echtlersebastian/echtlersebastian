@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Microsoft topics. (D365 / Power Platform / Azure)
+- 🔭 I’m currently working on [Echtler Mobile](https://github.com/echtlersebastian/EchtlerMobile), [Munich Perso Check](https://github.com/echtlersebastian/MunichPersoChecker) and Console based [Mau Mau](https://github.com/echtlersebastian/MauMau). 🥰
 - 🌱 I’m currently learning Chess.
 - 👯 I’m looking to collaborate on working with the Pokemon TCG API (https://pokemontcg.io/) 😍
 - 🤔 I’m looking for help with Azure Authentication in Webapps.
