@@ -2,7 +2,7 @@
 
 checkout my Homepage: https://www.echtlersebastian.de :)
 
-- 🔭 I’m currently working on [Echtler Mobile](https://github.com/echtlersebastian/EchtlerMobile) (currenty refactoring to .NET 6 with C# 10), [Munich Perso Check](https://github.com/echtlersebastian/MunichPersoChecker) and Console based [Mau Mau](https://github.com/echtlersebastian/MauMau) with our Azubis. 🥰
+- 🔭 I’m currently working on [Echtler Mobile](https://github.com/echtlersebastian/EchtlerMobile) (currenty refactoring to .NET 6 with C# 10), [Munich Perso Check](https://github.com/echtlersebastian/MunichPersoChecker) and Console based [Mau Mau](https://github.com/echtlersebastian/MauMau). 🥰
 - 🌱 I’m currently learning Chess.
 - 👯 I’m looking to collaborate on working with the Pokemon TCG API (https://pokemontcg.io/) 😍
 - 💬 Ask me about Technology 🤩
