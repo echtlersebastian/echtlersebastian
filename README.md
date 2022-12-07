@@ -2,7 +2,7 @@
 
 checkout my Homepage: https://www.echtlersebastian.de :)
 
-- 🔭 I’m currently no longer working on [Echtler Mobile](https://github.com/echtlersebastian/EchtlerMobile) (Refactoring to .NET 6 with C# 10, but the Business died... 😪), but the [Munich Perso Check](https://github.com/echtlersebastian/MunichPersoChecker) will maybe be updated in the Future. 🥰
+- 🔭 I’m currently no longer working on [Echtler Mobile](https://github.com/echtlersebastian/EchtlerMobile) (Refactoring to .NET 6 with C# 10 finished, but the Business died... 😪), but the [Munich Perso Check](https://github.com/echtlersebastian/MunichPersoChecker) will maybe be updated in the Future. 🥰
 - 🎅 Currently having a lot of the Daily Puzzles at [AdventOfCode](https://adventofcode.com/). My Solutions in C# can be found [in my Repository here](https://github.com/echtlersebastian/AdventOfCode2022). 😍
 - 🌱 I’m currently learning Chess.
 - 👯 I’m looking to collaborate on working with the Pokemon TCG API (https://pokemontcg.io/) 😍
