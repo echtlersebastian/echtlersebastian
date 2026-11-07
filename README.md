@@ -11,5 +11,4 @@ checkout my HomeLabs Landing Page and find some project i did: https://echtlab.d
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I didn't play Hide-And-Seek in Ikea so far, but i am open to offers.
 
-[![Basti's GitHub stats](https://github-readme-stats.vercel.app/api?username=echtlersebastian&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
